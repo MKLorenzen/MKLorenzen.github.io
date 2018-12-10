@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a computer science student at the Southern University of Denmark.
 
-This is hobby blog about things that i find interesting 
+This is just a causal blog about things that i find interesting. 
 
 ### Interests
 Almost anything related to computer science!
