@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a computer science student at the Southern University of Denmark. \n
+I am a computer science student at the Southern University of Denmark.
+
 This is hobby blog about things that i find interesting 
 
 ### Interests
