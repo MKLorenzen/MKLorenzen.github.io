@@ -17,14 +17,14 @@ avatar: https://mklorenzen.github.io/images/identicon.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: martin.lorenzen1@gmail.com
   facebook:
   flickr:
   github: MKLorenzen
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: mklorenzen # just type anything here for a working RSS icon
   twitter: #jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
