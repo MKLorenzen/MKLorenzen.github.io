@@ -16,5 +16,5 @@ Almost anything related to computer science
 * Java
 * Python
 * C
-* x86_64 (with GNU Assembler)
+* x86_64 (On Linux with GNU Assembler)
 * [Processing](http://www.processing.org)
