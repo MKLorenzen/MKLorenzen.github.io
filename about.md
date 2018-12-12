@@ -21,5 +21,4 @@ Almost anything related to computer science
 
 ### Email:
 martin.lorenzen1@gmail.com
-
 (you can also click the mail icon below)
