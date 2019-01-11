@@ -3,4 +3,4 @@ layout: archive
 title: Archive
 permalink: /archive/
 ---
-## Some random txt:
+A list of all posts (date format is DD/MM/YY):
