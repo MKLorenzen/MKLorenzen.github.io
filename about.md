@@ -21,5 +21,5 @@ Almost anything related to computer science
 * Haskell
 
 ### Email:
-martin.lorenzen1@gmail.com
+blog@mklorenzen.dk
 (you can also click the mail icon below)
