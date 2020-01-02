@@ -17,7 +17,9 @@ This is a variation of the original problem where the degree of vertex is bounde
 math test:
 
 $$
-\binomial{n}{k} = \binom{1}{2}
+\begin{equation}
+E = MC^2
+\end{equation}
 $$
 
 ## Applications
