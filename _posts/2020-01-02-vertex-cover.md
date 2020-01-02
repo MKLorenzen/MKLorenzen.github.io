@@ -14,6 +14,12 @@ Now everyone can construct a random subset of an arbitrary size, but we want the
 
 This is a variation of the original problem where the degree of vertex is bounded by a fixed constant. The degree of a vertex means the number of edges that are connected to a vertex (in a undirected graph). 
 
+math test:
+
+$$
+\binomial{n}{k} = \binom{1}{2}
+$$
+
 ## Applications
 
 **_This section is under construction_**
