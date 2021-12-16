@@ -14,4 +14,11 @@ Online algorithms deal with optimization problems with imperfect knowledge of th
 
 ## Example of an online problem: Caching
 
-- something everyone knows
+- Core cs problem
+- Relevant results
+
+## Conclusion
+
+## Further reading
+
+- Classic textbook
