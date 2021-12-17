@@ -1,5 +1,6 @@
 ---
 title: What is an online algorithm?
+math: true
 ---
 
 Online algorithms deal with optimization problems with imperfect knowledge of the future
