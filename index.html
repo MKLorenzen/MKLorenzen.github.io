@@ -7,7 +7,7 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <p style="color:grey;"> {{ post.date }} </p>
+      <p style="color:grey;"> {{ page.date | date_to_long_string }} </p>
       <div class="entry">
         {{ post.excerpt }}
       </div>
