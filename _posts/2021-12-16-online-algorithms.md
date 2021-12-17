@@ -6,6 +6,10 @@ math: true
 Online algorithms deal with optimization problems with imperfect knowledge of the future
 
 ## A more precise mathematical definition
+$ 
+\sigma
+$
+$ \sigma $
 - Request sequence $ \sigma $
 - Does not capture all problems
 
