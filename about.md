@@ -10,7 +10,8 @@ I am a computer science student at the Southern University of Denmark.
 - Algorithms and data structures
 - Online optimization
 - Getting things to run fast
+- Mathematics with applications for computer science
 
 ### Email:
+Feel free to email me questions, corrections or interesting things on:
 blog@mklorenzen.dk
-(you can also click the mail icon below)
