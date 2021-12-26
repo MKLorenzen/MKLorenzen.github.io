@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a computer science student at the Southern University of Denmark.
+I am currently a computer science student at the Southern University of Denmark.
 
 ### Interests
 - Algorithms and data structures
@@ -13,5 +13,5 @@ I am a computer science student at the Southern University of Denmark.
 - Mathematics related to computer science
 
 ### Email:
-Feel free to email me questions, corrections or interesting things on:
+Feel free to email me questions, corrections or suggestions on:
 blog@mklorenzen.dk
